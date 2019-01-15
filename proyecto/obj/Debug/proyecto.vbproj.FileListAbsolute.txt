@@ -1,0 +1,112 @@
+C:\Users\FARAM-1\AppData\Local\Temporary Projects\proyecto\bin\Debug\proyecto.exe
+C:\Users\FARAM-1\AppData\Local\Temporary Projects\proyecto\bin\Debug\proyecto.pdb
+C:\Users\FARAM-1\AppData\Local\Temporary Projects\proyecto\bin\Debug\proyecto.xml
+C:\Users\FARAM-1\AppData\Local\Temporary Projects\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FARAM-1\AppData\Local\Temporary Projects\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\FARAM-1\AppData\Local\Temporary Projects\proyecto\obj\Debug\proyecto.Resources.resources
+C:\Users\FARAM-1\AppData\Local\Temporary Projects\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\FARAM-1\AppData\Local\Temporary Projects\proyecto\obj\Debug\proyecto.exe
+C:\Users\FARAM-1\AppData\Local\Temporary Projects\proyecto\obj\Debug\proyecto.xml
+C:\Users\FARAM-1\AppData\Local\Temporary Projects\proyecto\obj\Debug\proyecto.pdb
+C:\Users\FARAM-1\Desktop\escritorio\juan diego\programacion\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\FARAM-1\Desktop\escritorio\juan diego\programacion\proyecto\proyecto\obj\Debug\proyecto.xml
+C:\Users\FARAM-1\Desktop\escritorio\juan diego\programacion\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\FARAM-1\Desktop\juan diego\programacion\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\FARAM-1\Desktop\juan diego\programacion\proyecto\proyecto\obj\Debug\proyecto.xml
+C:\Users\FARAM-1\Desktop\juan diego\programacion\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\J.D\Desktop\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\J.D\Desktop\proyecto\proyecto\obj\Debug\proyecto.xml
+C:\Users\J.D\Desktop\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\J.D\Desktop\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\J.D\Desktop\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\J.D\Desktop\proyecto\proyecto\bin\Debug\proyecto.xml
+C:\Users\J.D\Desktop\proyecto\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\J.D\Desktop\proyecto\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\J.D\Desktop\proyecto\proyecto\obj\Debug\proyecto.datos.resources
+C:\Users\J.D\Desktop\proyecto\proyecto\obj\Debug\proyecto.Resources.resources
+C:\Users\J.D\Desktop\proyecto\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\J.D\Desktop\proyecto\proyecto\obj\Debug\proyecto.curvaespiralizada.resources
+C:\Users\J.D\Desktop\proyecto2\proyecto\obj\Debug\proyecto.exe
+C:\Users\J.D\Desktop\proyecto2\proyecto\obj\Debug\proyecto.xml
+C:\Users\J.D\Desktop\proyecto2\proyecto\obj\Debug\proyecto.pdb
+C:\Users\J.D\Desktop\proyecto2\proyecto\bin\Debug\proyecto.exe
+C:\Users\J.D\Desktop\proyecto2\proyecto\bin\Debug\proyecto.pdb
+C:\Users\J.D\Desktop\proyecto2\proyecto\bin\Debug\proyecto.xml
+C:\Users\J.D\Desktop\proyecto2\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\J.D\Desktop\proyecto2\proyecto\obj\Debug\proyecto.curvaespiralizada.resources
+C:\Users\J.D\Desktop\proyecto2\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\J.D\Desktop\proyecto2\proyecto\obj\Debug\proyecto.datos.resources
+C:\Users\J.D\Desktop\proyecto2\proyecto\obj\Debug\proyecto.Resources.resources
+C:\Users\J.D\Desktop\proyecto2\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\salacivil\Desktop\proyecto2\proyecto\obj\Debug\proyecto.exe
+C:\Users\salacivil\Desktop\proyecto2\proyecto\obj\Debug\proyecto.xml
+C:\Users\salacivil\Desktop\proyecto2\proyecto\obj\Debug\proyecto.pdb
+C:\Users\salacivil\Desktop\proyecto2\proyecto\bin\Debug\proyecto.exe
+C:\Users\salacivil\Desktop\proyecto2\proyecto\bin\Debug\proyecto.pdb
+C:\Users\salacivil\Desktop\proyecto2\proyecto\bin\Debug\proyecto.xml
+C:\Users\salacivil\Desktop\proyecto2\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\salacivil\Desktop\proyecto2\proyecto\obj\Debug\proyecto.curvaespiralizada.resources
+C:\Users\salacivil\Desktop\proyecto2\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\salacivil\Desktop\proyecto2\proyecto\obj\Debug\proyecto.datos.resources
+C:\Users\salacivil\Desktop\proyecto2\proyecto\obj\Debug\proyecto.Resources.resources
+C:\Users\salacivil\Desktop\proyecto2\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\salacivil\Desktop\avance proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\salacivil\Desktop\avance proyecto\proyecto\obj\Debug\proyecto.xml
+C:\Users\salacivil\Desktop\avance proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\salacivil\Desktop\avance proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\salacivil\Desktop\avance proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\salacivil\Desktop\avance proyecto\proyecto\bin\Debug\proyecto.xml
+C:\Users\salacivil\Desktop\avance proyecto\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\salacivil\Desktop\avance proyecto\proyecto\obj\Debug\proyecto.curvaespiralizada.resources
+C:\Users\salacivil\Desktop\avance proyecto\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\salacivil\Desktop\avance proyecto\proyecto\obj\Debug\proyecto.datos.resources
+C:\Users\salacivil\Desktop\avance proyecto\proyecto\obj\Debug\proyecto.Resources.resources
+C:\Users\salacivil\Desktop\avance proyecto\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\J.D\Desktop\avance proyecto9\proyecto\obj\Debug\proyecto.exe
+C:\Users\J.D\Desktop\avance proyecto9\proyecto\obj\Debug\proyecto.xml
+C:\Users\J.D\Desktop\avance proyecto9\proyecto\obj\Debug\proyecto.pdb
+C:\Users\J.D\Desktop\avance proyecto9\proyecto\bin\Debug\proyecto.exe
+C:\Users\J.D\Desktop\avance proyecto9\proyecto\bin\Debug\proyecto.pdb
+C:\Users\J.D\Desktop\avance proyecto9\proyecto\bin\Debug\proyecto.xml
+C:\Users\J.D\Desktop\avance proyecto9\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\J.D\Desktop\avance proyecto9\proyecto\obj\Debug\proyecto.curvaespiralizada.resources
+C:\Users\J.D\Desktop\avance proyecto9\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\J.D\Desktop\avance proyecto9\proyecto\obj\Debug\proyecto.datos.resources
+C:\Users\J.D\Desktop\avance proyecto9\proyecto\obj\Debug\proyecto.Resources.resources
+C:\Users\J.D\Desktop\avance proyecto9\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+F:\avance proyecto9\proyecto\obj\Debug\proyecto.exe
+F:\avance proyecto9\proyecto\obj\Debug\proyecto.xml
+F:\avance proyecto9\proyecto\obj\Debug\proyecto.pdb
+F:\avance proyecto9\proyecto\bin\Debug\proyecto.exe
+F:\avance proyecto9\proyecto\bin\Debug\proyecto.pdb
+F:\avance proyecto9\proyecto\bin\Debug\proyecto.xml
+F:\avance proyecto9\proyecto\obj\Debug\ResolveAssemblyReference.cache
+F:\avance proyecto9\proyecto\obj\Debug\proyecto.curvaespiralizada.resources
+F:\avance proyecto9\proyecto\obj\Debug\proyecto.Form1.resources
+F:\avance proyecto9\proyecto\obj\Debug\proyecto.datos.resources
+F:\avance proyecto9\proyecto\obj\Debug\proyecto.Resources.resources
+F:\avance proyecto9\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+H:\avance proyecto9\proyecto\obj\Debug\proyecto.exe
+H:\avance proyecto9\proyecto\obj\Debug\proyecto.xml
+H:\avance proyecto9\proyecto\obj\Debug\proyecto.pdb
+H:\avance proyecto9\proyecto\bin\Debug\proyecto.exe
+H:\avance proyecto9\proyecto\bin\Debug\proyecto.pdb
+H:\avance proyecto9\proyecto\bin\Debug\proyecto.xml
+H:\avance proyecto9\proyecto\obj\Debug\ResolveAssemblyReference.cache
+H:\avance proyecto9\proyecto\obj\Debug\proyecto.curvaespiralizada.resources
+H:\avance proyecto9\proyecto\obj\Debug\proyecto.Form1.resources
+H:\avance proyecto9\proyecto\obj\Debug\proyecto.datos.resources
+H:\avance proyecto9\proyecto\obj\Debug\proyecto.Resources.resources
+H:\avance proyecto9\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\J.D\Desktop\avance final\proyecto\obj\Debug\proyecto.exe
+C:\Users\J.D\Desktop\avance final\proyecto\obj\Debug\proyecto.xml
+C:\Users\J.D\Desktop\avance final\proyecto\obj\Debug\proyecto.pdb
+C:\Users\J.D\Desktop\avance final\proyecto\bin\Debug\proyecto.exe
+C:\Users\J.D\Desktop\avance final\proyecto\bin\Debug\proyecto.pdb
+C:\Users\J.D\Desktop\avance final\proyecto\bin\Debug\proyecto.xml
+C:\Users\J.D\Desktop\avance final\proyecto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\J.D\Desktop\avance final\proyecto\obj\Debug\proyecto.curvaespiralizada.resources
+C:\Users\J.D\Desktop\avance final\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\J.D\Desktop\avance final\proyecto\obj\Debug\proyecto.datos.resources
+C:\Users\J.D\Desktop\avance final\proyecto\obj\Debug\proyecto.Resources.resources
+C:\Users\J.D\Desktop\avance final\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
